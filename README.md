@@ -5,7 +5,7 @@ It used to take our support staff 40-50 minutes to create such a report.
 This program does it in about 28 seconds. 
 
 ## Includes:
--Google Drive Api.
+-Google Drive Api
 -Google Spreadsheet Api
 -Pandas
 -Tkinter
